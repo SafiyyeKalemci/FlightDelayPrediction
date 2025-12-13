@@ -1,6 +1,6 @@
 Models: 
 
---- delay_model_1 (Baseline) ---
+--- model_rf_1 (Baseline) ---
 
     Accuracy → 0.6374
 
@@ -24,7 +24,7 @@ Gecikmeli uçuşları yakalama yeteneği düşüktü.
 
 
 
---- delay_model_2 (Feature Engineering + Class Balance) ---
+--- model_rf_2 (Feature Engineering + Class Balance) ---
 
     Class Distribution:
     0 → 63.5%
